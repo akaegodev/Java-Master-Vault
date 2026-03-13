@@ -29,3 +29,13 @@ Lo que pasa "bajo el capó". Entender el flujo de datos en el **Stack** (Copia d
 - **Explicación:** El razonamiento técnico.
     
 - **Errores Comunes:** ⚠️ **La sección más importante.** Aquí anoto los fallos que te harán perder horas si no los conoces.
+
+---
+
+---
+## 🌐 Conectemos
+¿Tienes dudas o quieres compartir material? Búscame y sígueme en mis redes:
+
+### 🌐 Conectemos
+- **Twitter/X:** [@akaegodev](https://twitter.com/akaegodev)
+- **Instagram:** [@akaegodev](https://www.instagram.com/akaegodev?igsh=dmVuMDNsZm5hbHg1&utm_source=qr)
