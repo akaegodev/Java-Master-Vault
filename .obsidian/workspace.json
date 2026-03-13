@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "922289fc30241dc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac1e6cf7ea31ce32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57016a41c4f16fd3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da974e213c3c95a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2a28e8684883334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ece465d4465388b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "f2688be62a681cf8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "b39d4bc99ebedb2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc372138b9ad763b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0336713522826e7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4208357ce4557b10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 - Tipos de Datos (Variables).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 2 - Tipos de Datos (Variables)"
+            }
+          },
+          {
+            "id": "01ba536715f268d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 - Tipos de Datos (Variables).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 2 - Tipos de Datos (Variables)"
+            }
+          },
+          {
+            "id": "0db44156f84148b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "eab0e249ca13de47",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "e4cf7506cf7e3d6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 - Tipos de Datos (Variables).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 2 - Tipos de Datos (Variables)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "4ece465d4465388b",
+  "lastOpenFiles": [
+    "Proyectos/2- Calculadora Cuenta.md",
+    "Proyectos/1- Calculadora de sueldo.md",
+    "Proyectos",
+    "Código en imagen/2- Calculadora de Cuenta/Resultado 2.png",
+    "Código en imagen/2- Calculadora de Cuenta/Código completo.png",
+    "Código en imagen/1-Calculadora de sueldo/Resultado.png",
+    "Código en imagen/1-Calculadora de sueldo/Código completo + resultados.png",
+    "Código en imagen/2- Calculadora de Cuenta",
+    "Código en imagen/1-Calculadora de sueldo",
+    "Código en imagen",
+    "3 - Memoria y Consola/2 - Salida de Datos (Consola y Concatenación).md",
+    "3 - Memoria y Consola/1 - Flujo de Memoria (Copia de Valor).md",
+    "3 - Memoria y Consola",
+    "2 - Operaciones y Flujo/3 - Operadores de Comparación (Lógica).md",
+    "2 - Operaciones y Flujo/2 - Incremento y Decremento.md",
+    "2 - Operaciones y Flujo/1 - Restricciones de Operadores y Literales.md",
+    "2 - Operaciones y Flujo",
+    "1 - Fundamentos de Sintaxis/4 - Casting (Conversión de tipos).md",
+    "1 - Fundamentos de Sintaxis/3 - Comentarios y Documentación.md",
+    "1 - Fundamentos de Sintaxis/2 - Tipado Fuerte y Seguridad.md",
+    "1 - Fundamentos de Sintaxis/1 - Declaración, Inicialización y Reasignación.md",
+    "1 - Fundamentos de Sintaxis",
+    "0 - Introducción (README)/01 - README.md",
+    "0 - Introducción (README)/00 - Introducción.md",
+    "0 - Introducción (README)",
+    "Java-Master-Vault",
+    "3 - Declaración vs. Reasignación.md",
+    "9 - Tipos de salida de Datos (Consola).md",
+    "8 - Operadores de Comparación (Lógica).md",
+    "7 - Operadores de Incremento y Decremento.md",
+    "6 - Flujo de Memoria y Copia.md",
+    "4 - Ejemplo.md",
+    "5 - Check-list de Errores Comunes.md",
+    "2 - Tipos de Datos (Variables).md",
+    "1 - Manual de Fundamentos y Sintaxis.md",
+    "Código en imagen/1-Calculadora de sueldo/Resultado 1.png",
+    "Pasted image 20260311090952.png",
+    "Pasted image 20260311085355.png",
+    "Pasted image 20260311085349.png"
+  ]
+}
